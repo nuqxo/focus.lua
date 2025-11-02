@@ -4,7 +4,6 @@
 ### ✦ Features
 - Minimal CLI Pomodoro timer  
 - Random “focus phrases”  
-- Auto logs your sessions  
 - No distractions, just vibes  
 
 ### 🕹️ Usage

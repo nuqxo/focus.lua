@@ -1,10 +1,11 @@
-<img width="959" height="256" alt="image" src="https://github.com/user-attachments/assets/64af02c7-69a7-4f7d-ac88-518b01e3d31e" />
+![image_2025-11-05_233356448](https://github.com/user-attachments/assets/617003bd-ee62-428c-9611-4eca1ea1527f)
 
 # focus.lua
 > Command-line Lua tool for productivity and vibes.
 
 ### ✦ Features
-- Minimal CLI Pomodoro timer  
+- Minimal CLI Pomodoro timer
+
 - Random “focus phrases”  
 - No distractions, just vibes  
 
